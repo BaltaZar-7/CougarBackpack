@@ -1,0 +1,78 @@
+{
+  "ModCarryingCapacityBehaviour": {
+    "MaxCarryCapacityKGBuff": 8.0
+  },
+  "ModClothingComponent": {
+    "DisplayNameLocalizationId": "GAMEPLAY_CougarBackpack",
+    "DescriptionLocalizatonId": "GAMEPLAY_CougarBackpackDescription",
+    "InventoryActionLocalizationId": "",
+    "WeightKG": 0.5,
+    "DaysToDecay": 4000,
+    "MaxHP": 100.0,
+    "InitialCondition": "Perfect",
+    "InventoryCategory": "Clothing",
+    "PickUpAudio": "Play_SndInvAccessoryLeather",
+    "PutBackAudio": "Play_SndInvAccessoryLeather",
+    "StowAudio": "Play_InventoryStow",
+    "WornOutAudio": "Play_LeatherWornOut",
+    "InspectOnPickup": true,
+    "InspectDistance": 0.8,
+    "InspectAngles": [
+      0.0,
+      180.0,
+      0.0
+    ],
+    "InspectOffset": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "InspectScale": [
+      0.7,
+      0.7,
+      0.7
+    ],
+    "NormalModel": "",
+    "InspectModel": "",
+    "Region": "Accessory",
+    "MinLayer": "Base",
+    "MaxLayer": "Base",
+    "MovementSound": "LeatherHide",
+    "Footwear": "None",
+    "DaysToDecayWornOutside": 3000.0,
+    "DaysToDecayWornInside": 6000.0,
+    "Warmth": 0.0,
+    "WarmthWhenWet": 0.0,
+    "Windproof": 0.0,
+    "Waterproofness": 0.0,
+    "Toughness": 1.0,
+    "SprintBarReduction": 0.0,
+    "DecreaseAttackChance": 5,
+    "IncreaseFleeChance": 5,
+    "HoursToDryNearFire": 4.0,
+    "HoursToDryWithoutFire": 10.0,
+    "HoursToFreeze": 24.0,
+    "MainTexture": "",
+    "BlendTexture": "",
+    "DrawLayer": 42,
+    "ImplementationType": "",
+    "DamageSource": "Unspecified",
+    "FirstPersonPrefabMale": "",
+    "FirstPersonPrefabFemale": ""
+  },
+  "ModRepairableBehaviour": {
+    "Audio": "",
+    "Minutes": 90,
+    "Condition": 30,
+    "RequiredTools": [
+      "GEAR_SewingKit",
+      "GEAR_HookAndLine"
+    ],
+    "MaterialNames": [
+      "GEAR_Leather"
+    ],
+    "MaterialCounts": [
+      2
+    ]
+  }
+}
