@@ -3,6 +3,7 @@ Adds an upgrade to the moose hide satchel. A Cougar Backpack.
 The icons and model are AI generated placeholders. I am not capable of making such models, textures.  
 If you want to remake them, feel free to contact me!  
 # Installation
+Download and install dependancy mod AND its dependancies: ModComponent, ModSettings  
 Download and place the modcomponent file into your \Mods folder.  
 # Thank you for downloading!
 Mod for The Long Dark game created by Hinterland Studios  
