@@ -1,2 +1,13 @@
 # CougarBackpack
-New item mod for The Long Dark game
+Adds an upgrade to the moose hide satchel. A Cougar Backpack.  
+The icons and model are AI generated placeholders. I am not capable of making such models, textures.  
+If you want to remake them, feel free to contact me!  
+# Installation
+Download and place the modcomponent file into your \Mods folder.  
+# Thank you for downloading!
+Mod for The Long Dark game created by Hinterland Studios  
+Created with Modcomponent SDK   
+Made by BaltaZar  
+If you want to generously support me financially, here is where you can. Thank you very much!  
+https://www.patreon.com/c/baltazar777/membership  
+[![Github All Releases](https://img.shields.io/github/downloads/BaltaZar-7/CougarBackpack/total.svg)]()
