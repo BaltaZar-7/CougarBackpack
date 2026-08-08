@@ -37,7 +37,7 @@
     "MovementSound": "LeatherHide",
     "Footwear": "None",
     "DaysToDecayWornOutside": 10000.0,
-    "DaysToDecayWornInside": 5000.0,
+    "DaysToDecayWornInside": 20000.0,
     "Warmth": 0.0,
     "WarmthWhenWet": 0.0,
     "Windproof": 0.0,
