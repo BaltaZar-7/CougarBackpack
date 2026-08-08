@@ -1,4 +1,4 @@
-# CougarBackpack
+# Cougar Backpack
 Adds an upgrade to the moose hide satchel. A Cougar Backpack.  
 The icons and model are AI generated placeholders. I am not capable of making such models, textures.  
 If you want to remake them, feel free to contact me!  
