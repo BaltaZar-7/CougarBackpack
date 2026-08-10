@@ -1,6 +1,7 @@
 # Cougar Backpack
 Adds an upgrade to the moose hide satchel. A Cougar Backpack.  
 Adds 10 kilos carry weight. Repairable with cured leather.  
+5 chance to deter wolves. 1% protection.  
 The icons and model are AI generated placeholders. I am not capable of making such models, textures.  
 If you want to remake them, feel free to contact me!  
 <img width="1564" height="880" alt="CougarBp1" src="https://github.com/user-attachments/assets/b1d12e19-aaaf-4c78-9989-1fe54def568e" />
