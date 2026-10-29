@@ -36,8 +36,8 @@
     "MaxLayer": "Mid",
     "MovementSound": "LeatherHide",
     "Footwear": "None",
-    "DaysToDecayWornOutside": 10000.0,
-    "DaysToDecayWornInside": 20000.0,
+    "DaysToDecayWornOutside": 20000.0,
+    "DaysToDecayWornInside": 40000.0,
     "Warmth": 0.0,
     "WarmthWhenWet": 0.0,
     "Windproof": 0.0,
@@ -65,7 +65,7 @@
       "GEAR_SewingKit"
     ],
     "MaterialNames": [
-      "GEAR_LeatherDried"
+      "GEAR_Leather"
     ],
     "MaterialCounts": [
       2
